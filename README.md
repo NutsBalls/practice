@@ -4,7 +4,7 @@
 
 ## Установка
 
-1. Установите [Docker Compose Desktop](https://www.docker.com/products/docker-desktop).
+1. Установите [Docker Desktop](https://www.docker.com/products/docker-desktop).
 2. Введите команду:
    ```sh
    docker-compose up --build
